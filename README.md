@@ -1,8 +1,7 @@
 
 👋 Hi, I'm Bibek!
-🎓 BCA 3rd Year Student
-👀 I’m interested in web 
-🌱 I’m currently learning React , Node.js , Express.js
+👀 I’m interested in Data manipulation
+<!---🌱 I’m currently ---> 
 💻 Passionate about Python and C/C++ 
 🚀 Constantly learning and improving my programming skills  
 🤝 Open to collaboration on exciting projects!
