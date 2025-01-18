@@ -3,7 +3,10 @@
 👀 I’m interested in Data manipulation
 <!---🌱 I’m currently ---> 
 💻 Passionate about Python and C/C++ 
-🚀 Constantly learning and improving my programming skills  
+<!--- --->
+🚀 Constantly learning and improving my programming skills 
+<!--- --->
+
 🤝 Open to collaboration on exciting projects!
 <!--📫 How to reach me - 
 
