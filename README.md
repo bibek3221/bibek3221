@@ -1,15 +1,24 @@
+# 👋 Hi, I'm Bibek!
 
-👋 Hi, I'm Bibek!
-👀 I’m interested in Data manipulation
-<!---🌱 I’m currently ---> 
-💻 Passionate about Python and C/C++ 
-<!--- --->
-🚀 Constantly learning and improving my programming skills 
-<!--- --->
+## 👀 Interests
+- Data Manipulation
+- Backend Development
 
-🤝 Open to collaboration on exciting projects!
-<!--📫 How to reach me - 
+## 💻 Skills
+- Python
+- C/C++
+- Node.js (Backend Development)
 
+## 🚀 Learning & Growth
+- Constantly improving my programming skills
+- Exploring new technologies and frameworks
+
+## 🤝 Collaboration
+- Open to working on exciting projects!
+
+<!--- 📫 How to reach me: Add your contact details or social links here --->
+
+---
 
 <!---
 bibek3221/bibek3221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
